@@ -1,5 +1,9 @@
 # Mobile Challenge
+
+### iOS
 <img src="https://user-images.githubusercontent.com/21008002/36354897-72938338-150d-11e8-8c7b-21da3d4374e4.gif" height="650">
+
+### Android
 <img src="https://user-images.githubusercontent.com/21008002/36354900-83e31464-150d-11e8-995d-b2a51453fb68.gif" height="650">
 
 
