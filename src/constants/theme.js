@@ -1,0 +1,7 @@
+export const baseColor = '#00b386'
+export const baseFontColor = '#ffffff'
+export const baseFormColor = '#ffffff'
+export const faceboookColor = '#446db0'
+export const baseBackgroundColor = '#efefef'
+export const baseBorderColor = '#efefef'
+export const baseBorderTextColor = '#000000'

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "457675001666",
+    "firebase_url": "https://mobilechallenge-a0c9a.firebaseio.com",
+    "project_id": "mobilechallenge-a0c9a",
+    "storage_bucket": "mobilechallenge-a0c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457675001666:android:f830e909537c83b2",
+        "android_client_info": {
+          "package_name": "com.jed.mobilechallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457675001666-kgbvij2sdv943b0ajbog5erpkqqarfv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw_skOyvJriJfN_1lTO9pBP5W8jn9ekW0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
