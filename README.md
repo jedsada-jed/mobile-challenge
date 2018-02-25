@@ -21,5 +21,14 @@
 * [XCode](https://developer.apple.com/xcode/)
 * [Android Studio](https://developer.android.com/studio/index.html)
 * [Google Chrome (For Debugging)](https://www.google.com/intl/th/chrome/)
+
+### How to install
+1. Open terminal
+2. Run `$ git clone git@github.com:jedsada-jed/mobile-challenge.git`
+3. Run `$ cd mobile-challenge`
+4. Run `$ npm install`
+5. For android run `$ react-native run-android`
+6. For ios have to download [Facebook SDK](https://developers.facebook.com/docs/ios/componentsdks) and then move all file at `~/Documents/FacebookSDK`
+7. For ios run `$ react-native run-ios`
 ------------
 Thank you for coming.
