@@ -56,7 +56,7 @@ class Login extends Component {
           newFirebase.error,
           [{ text: ok }],
         )
-      } else if (newFirebase.data._user) {
+      } else if (newFirebase.data.user) {
         return Actions.Notes({ type: 'reset' })
       }
     }

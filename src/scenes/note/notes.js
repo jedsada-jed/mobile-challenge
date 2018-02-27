@@ -97,7 +97,7 @@ const mapStateToProps = state => {
     noteReducer: { dataNote },
     authenFirebase: { data }
   } = state
-  const user = data._user
+  const user = data.user._user
   return { dataNote, user }
 }
 

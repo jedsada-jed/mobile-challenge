@@ -31,7 +31,7 @@ export const facebookLogin = async (dispatch) => {
     dispatch({ type: LOGIN_FIREBASE_REQUEST })
 
     const credential = firebase.auth.FacebookAuthProvider.credential(data.accessToken)
-    const currentUser = await firebase.auth().signInWithCredential(credential)
+    const currentUser = await firebase.auth().signInAndRetrieveDataWithCredential(credential)
     dispatch({ type: LOGIN_FIREBASE_SUCCESS, data: currentUser })
   } catch (e) {
     dispatch({ type: LOGIN_FIREBASE_FAILURE, error: e.message })
